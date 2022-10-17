@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afyfahsuwadi94
+- 👋 Hi, I’m afyfah
 - 👀 I’m interested in Augmented Reality and Data Visualization
 - 🌱 I’m currently learning Tangible AR
 - 💞️ I’m looking to collaborate on how to use IoT (as a tangible) with AR data vis project.
